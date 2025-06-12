@@ -1,4 +1,4 @@
-# LegalAI - Professional Legal Assistant
+# ORYZED LEGAL RESEARCH AI ASSISTANT
 
 A sophisticated legal chatbot powered by advanced AI technology, featuring memory management, session storage, and a professional ChatGPT-like interface designed specifically for legal consultations.
 
